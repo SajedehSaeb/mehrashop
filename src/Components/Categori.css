@@ -1,0 +1,49 @@
+.div-1{
+    margin: 30px;
+}
+
+.cat-align{
+    text-align: right;
+    font-size: 20px;
+    font-family: 'IRANSans';
+    font-style: normal;
+    font-weight: 700;
+    color: #121212;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+}
+
+.cat-ul{
+    text-align: right;
+    width: 50%;
+}
+
+.div-size{
+    height: 426px;
+    margin: 30px;
+}
+
+.div-cat{
+    height: 280px;
+    width: 22vw;
+}
+
+.margin{
+    margin-right: 27px;
+}
+
+.img-1 {
+    margin-top: 25%;
+}
+
+.li-cat{
+    direction:rtl;
+}
+
+.li-cat :hover{
+    color: #B04D50;
+}
+
+.cat-a{
+    color: #B04D50;
+}

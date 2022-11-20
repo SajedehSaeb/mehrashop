@@ -1,0 +1,33 @@
+.imge-size{
+    width: 150px;
+    height: 85.5px;
+}
+
+
+.chosse-m{
+    margin : 7% 4%
+}
+
+.chosse-font{
+    font-size: 18px;
+    text-align: right;
+    font-weight: 600;
+}
+
+
+.chosse-fontP{
+    font-size: 12px;
+    text-align: right;
+    font-weight: 400;
+}
+
+.chosse-fonth{
+    font-size: 15px;
+    text-align: right;
+    font-weight: 400;
+}
+
+.w-div{
+    width: 52%;
+    padding-left: 0;
+}

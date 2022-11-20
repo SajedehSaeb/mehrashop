@@ -1,0 +1,78 @@
+.baner-1{
+    margin-right: 0.5px;
+    margin-left: 35px;
+    background-image: url('img/image\ 33.png');
+    background-size: cover;
+    width: 450px;
+    height: 200px;
+}
+
+.baner-2{
+    margin-right: 5px;
+    margin-left: 25px;
+    background-image: url('img/image3.png');
+    background-size: cover;
+    width: 450px;
+    height: 200px;
+}
+
+.baner-3{
+    /* margin-right: 5px; */
+    margin-left: 20px;
+    background-image: url('img/image\ 34.png');
+    background-size: cover;
+    width: 450px;
+    height: 200px;
+}
+
+.baner-p1{
+    text-align: right;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.baner-a{
+    text-align: right;
+    font-size: 14px;
+    margin-left:79%;
+    color: black;
+}
+
+.baner-p20{
+    text-align: right;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.baner-p21{
+    text-align: right;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: -8%;
+}
+
+.baner-p22{
+    text-align: right;
+    font-size: 20px;
+    font-weight: 600;
+    color: #E68588;
+    margin-top: -8%;
+}
+
+.baner-p3{
+    text-align: right;
+    font-size: 12px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.baner-p31{
+    text-align: right;
+    font-size: 22px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.baner-a3{
+    color: #fff;
+}

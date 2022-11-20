@@ -1,0 +1,41 @@
+.Search{
+    background-color: #86BC42;
+}
+
+.input-width{
+    width: 40vw;
+}
+
+.inp-s{
+    text-align: right;
+}
+
+/* icon padding */
+.icon {
+    padding-right: 35.8px;
+    padding-top: 25px;
+}
+
+/* icon margin */
+.icon-m{
+    margin-left: 65px;
+}
+
+.logo{
+    width: 126px;
+    height: 60px;
+}
+
+.button-N{
+    padding: 7px;
+}
+
+.logo-style{
+    margin-left: 120px;
+}
+
+.span-style{
+    background-color: #86BC42;
+    color: white;
+    margin-right: -15px;
+}

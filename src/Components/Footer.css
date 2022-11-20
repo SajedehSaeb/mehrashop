@@ -1,0 +1,57 @@
+.footer-bg{
+    background-color: #41544A;
+    background-image: url('./img/footer.png');
+    background-position:right;
+    background-size: cover;
+    height: 100vh;
+}
+
+.footer-align{
+    text-align: center;
+}
+
+
+.footer-input{
+    text-align: right;
+    margin-top: -3%;
+    font-family: 'IRANSans';
+}
+
+.footer-phone{
+    width: 25px;
+}
+
+
+.footer-btn{
+    margin-top: -3%;
+    margin-left: 1%;
+
+}
+
+.first-div{
+    width: 630px;
+}
+
+
+
+.footer-icon{
+    width: 40px;
+}
+
+.firstF{
+    margin-right: 2%;
+}
+
+.margin-footer{
+    margin-right: 2%;
+}
+
+
+.footer-p{
+    text-align: right;
+    padding-right: 10%;
+}
+
+.footer-p1{
+    padding-left: 10%;
+}

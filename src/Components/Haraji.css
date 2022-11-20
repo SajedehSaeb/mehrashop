@@ -1,0 +1,69 @@
+.haraji-div{
+    height: 495px;
+    width: 1395px;
+    border: 2px solid #B04D50;
+}
+
+.haraji{
+    margin-top: -6%;
+    margin-left: 3.5%;
+    margin-bottom: 5%;
+    position: relative;
+}
+
+
+.nemodar{
+    width: 200px;
+    height: 6px;
+    left: 0px;
+    top: 374.96px;
+    background: #EBEBEB;
+    border-radius: 30px;
+}
+
+.nemodar-c{
+    width: 144px;
+    height: 6px;
+    left: 86px;
+    top: 375px;
+    background: #B04D50;
+    border-radius: 30px;
+    margin-left: 30%;
+}
+
+.flower-p{
+    font-size: 13px;
+    margin-top: 4%;
+}
+
+
+.price{
+    color: #B04D50;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.price :hover {
+    color:  #4db073;
+}
+
+
+.save{
+    margin-top: -182%;
+    margin-left: 78%;
+}
+
+.Haraji-top{
+    width: 426px;
+    height: 65.75px;
+    background: #FFFFFF;
+    margin-left: 66%;
+    margin-top: -4.5%;
+}
+
+.haraji-time{
+    width: 210px;
+    height: 39.85px;
+    background: #B04D50;
+    border-radius: 30px;
+}
